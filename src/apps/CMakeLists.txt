@@ -1,0 +1,9 @@
+# A list of applications
+ADD_SUBDIRECTORY(viewer)
+ADD_SUBDIRECTORY(forwardSim)
+ADD_SUBDIRECTORY(cubes)
+ADD_SUBDIRECTORY(motionAnalysis)
+ ADD_SUBDIRECTORY(pdController)
+ADD_SUBDIRECTORY(balance)
+ADD_SUBDIRECTORY(ik)
+ADD_SUBDIRECTORY(hybrid)
