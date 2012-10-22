@@ -1,4 +1,4 @@
-## RTQL8 ## (pronounced “articulate”): Dynamic Multibody Simulator
+## RTQL8 (pronounced “articulate”): Dynamic Multibody Simulator##
 
 RTQL8 is an open source library for developing kinematic and dynamic applications in robotics and computer animation. The multibody simulator is designed to aid development of motion control algorithms. RTQL8 uses generalized coordinates to represent articulated rigid body systems and computes Lagrange’s equations derived from D’Alemberts principle to describe the dynamics of motion. In contrast to many popular physics engines which view the simulator as a black box, RTQL8 provides full access to internal kinematic and dynamic states, such as mass matrix, Coriolis and centrifugal force, transformation matrices and their derivatives, etc. RTQL8 also provides efficient computation of Jacobian matrices for arbitrary points in arbitrary coordinate frames.
 
@@ -8,7 +8,7 @@ RTQL8 is written in C++. Currently, we only provide installation instructions fo
 RTQL8.zip from http://www.cc.gatech.edu/~karenliu/RTQL8.html
 (48MB, including all source code and tutorials)
 
-##Tutorial:## 
+## Tutorial:##
 RTQL8 tutorial: file://docs/rtql8-tutorial.pdf
 Multibody dynamics tutorial: file://docs/dynamics-tutorial.pdf
 LCP contact handling tutorial: file://docs/lcp-tutorial.pdf
