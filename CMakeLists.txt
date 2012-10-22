@@ -87,6 +87,8 @@ endif()
 
 ###############################################
 message(STATUS "Building RTQL8 source")
+ADD_SUBDIRECTORY(thirdparty/ticpp)
+
 ADD_SUBDIRECTORY(src)
 
 ###############################################

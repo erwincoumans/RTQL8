@@ -23,7 +23,9 @@
 #include "common.h"
 #include "matrix.h"
 //#include "config.h"
-//#include <malloc.h>
+#ifdef _WIN32
+#include <malloc.h>
+#endif
 
 #ifndef EFFICIENT_ALIGNMENT
 #define EFFICIENT_ALIGNMENT 16

@@ -37,8 +37,13 @@ using namespace std;
 
 namespace utils {
   
-    double subtractTimes( double endTime, double startTime) {
+    double subtractTimes( double endTime, double startTime) 
+	{
+#ifndef _WIN32
         return (endTime - startTime) / CLOCKS_PER_SEC;
+#else
+		return 1.0;
+#endif
     }
 
 
