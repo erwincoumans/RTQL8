@@ -9,9 +9,9 @@ RTQL8.zip from http://www.cc.gatech.edu/~karenliu/RTQL8.html
 (48MB, including all source code and tutorials)
 
 ## Tutorial:##
-RTQL8 tutorial: file://docs/rtql8-tutorial.pdf
-Multibody dynamics tutorial: file://docs/dynamics-tutorial.pdf
-LCP contact handling tutorial: file://docs/lcp-tutorial.pdf
+RTQL8 tutorial: <a href="http://www.cc.gatech.edu/~karenliu/RTQL8_files/rtql8-tutorial.pdf">rtql8-tutorial.pdf</a>
+Multibody dynamics tutorial: <a href>dynamics-tutorial.pdf</a>
+LCP contact handling tutorial: <a href>lcp-tutorial.pdf</a>
 
 ##Contributors:##
 Karen Liu
