@@ -5,27 +5,26 @@ RTQL8 is an open source library for developing kinematic and dynamic application
 RTQL8 is written in C++. Currently, we only provide installation instructions for Mac OSX/Unix users. However, RTQL8 does not depend on any platform-specific libraries and can be installed on Windows. We will provide the installation instructions for Visual Studio soon.
 
 ## Download:##
-RTQL8.zip from http://www.cc.gatech.edu/~karenliu/RTQL8.html
-(48MB, including all source code and tutorials)
+<a href="http://www.cc.gatech.edu/~karenliu/RTQL8.html">RTQL8.zip</a> (48MB, including all source code and tutorials)
 
 ## Tutorial:##
-RTQL8 tutorial: <a href="http://www.cc.gatech.edu/~karenliu/RTQL8_files/rtql8-tutorial.pdf">rtql8-tutorial.pdf</a>
-Multibody dynamics tutorial: <a href>dynamics-tutorial.pdf</a>
-LCP contact handling tutorial: <a href>lcp-tutorial.pdf</a>
+* RTQL8 tutorial: <a href="http://www.cc.gatech.edu/~karenliu/RTQL8_files/rtql8-tutorial.pdf">rtql8-tutorial.pdf</a>
+* Multibody dynamics tutorial: <a href="http://www.cc.gatech.edu/~karenliu/RTQL8_files/dynamics-tutorial.pdf">dynamics-tutorial.pdf</a>
+* LCP contact handling tutorial: <a href="http://www.cc.gatech.edu/~karenliu/RTQL8_files/lcp-tutorial.pdf">lcp-tutorial.pdf</a>
 
 ##Contributors:##
-Karen Liu
-Sumit Jain
-Yuting Ye
-Sehoon Ha
-Jie Tan
-Chen Tang
-Kristin Siu
+* Karen Liu
+* Sumit Jain
+* Yuting Ye
+* Sehoon Ha
+* Jie Tan
+* Chen Tang
+* Kristin Siu
 
 ##License:##
-RTQL8, Copyright (c) 2011, Georgia Tech Research Corporation
-All rights reserved.
-Geoorgia Tech Graphics Lab
+RTQL8, Copyright (c) 2011, Georgia Tech Research Corporation</br>
+All rights reserved.<br/>
+Georgia Tech Graphics Lab<br/>
 This file is provided under the following "BSD-style" License:
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 Redistributions of source code must retain the above copyright
